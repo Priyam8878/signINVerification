@@ -1,0 +1,24 @@
+.userVerification{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: max-content;
+    padding: 100px;
+    background-color: rgb(236, 231, 231);
+}
+#signUp{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+    width: 100%;
+}
+#signIn{
+    border: none;
+    color: blue;
+}
+button:hover{
+    pointer-events: painted;
+}
+#requires{
+    color: red;
+}

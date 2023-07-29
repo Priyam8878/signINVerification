@@ -1,0 +1,22 @@
+#profile{
+    position:absolute;
+    left: 20%;
+    background-color: wheat;
+    padding: 100px;
+
+}
+img{
+   padding-left: 30px;
+   padding-bottom: 20px;
+}
+#logout{
+    padding: 5px;
+    width: 150px;
+    background-color: rgb(74, 74, 231);
+    margin: 20px;
+    border: none;
+    color: white;
+}
+div{
+    padding: 10px;
+}
